@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Психология без шума</title>
+
+<title>Без паники!</title>
 <link>https://olgavishenka164-max.github.io/zen-rss/</link>
-<description>Статьи по психологии для аудитории РФ</description>
+<description>Статьи о тревоге, самооценке и внутренней опоре</description>
+
+<item>
+<title>Тестовая статья</title>
+<link>https://olgavishenka164-max.github.io/zen-rss/test</link>
+<description><![CDATA[
+<p>Это тестовая статья для проверки RSS.</p>
+]]></description>
+<pubDate>Wed, 26 Feb 2026 18:00:00 GMT</pubDate>
+<guid>test-1</guid>
+</item>
 
 </channel>
 </rss>
